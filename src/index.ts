@@ -9,4 +9,3 @@ app.use("/test", async (req: Request, res: Response) => {});
 app.listen(5000, () => {
   console.log("Server running on port: ", 5000);
 });
-
